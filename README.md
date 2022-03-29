@@ -14,3 +14,6 @@ Create a `Month Column` covert the `dtypes` to `int` and `Qty Ordered` to `int` 
 
 Create a `city` column and `group` all the cities and visualise.
 
+#### Problem Statements => At what time is the sales Products to the MAX.
+
+Convert the `dates` to `dateTime`, creat an `hour` column, group the hours into `keys` and visualize.
