@@ -17,3 +17,8 @@ Create a `city` column and `group` all the cities and visualise.
 #### Problem Statements => At what time is the sales Products to the MAX.
 
 Convert the `dates` to `dateTime`, creat an `hour` column, group the hours into `keys` and visualize.
+
+#### Problem Statements => What Product Solds the Most and why.
+
+Do a `groupby` on the `Products` and `Quantity` visualized the see which sales most and do a `groupby` on the `product` and `price` to see why. you can use a `subplot` to plot together as well.
+
