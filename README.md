@@ -22,3 +22,7 @@ Convert the `dates` to `dateTime`, creat an `hour` column, group the hours into 
 
 Do a `groupby` on the `Products` and `Quantity` visualized the see which sales most and do a `groupby` on the `product` and `price` to see why. you can use a `subplot` to plot together as well.
 
+#### Problem Statements => What Products are More often Sold together.
+
+Group the `Order ID's` and remove the Duplicates and Visualize.
+
